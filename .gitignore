@@ -1,0 +1,8 @@
+env.php
+application/config/production
+application/config/development
+application/config/testing
+application/logs/*.php
+wp-config.php
+wp-config-production.php
+wp-content/uploads

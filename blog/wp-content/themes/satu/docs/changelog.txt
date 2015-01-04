@@ -1,0 +1,16 @@
+2.1 - 3/30/2014
+- Add support Jetpack comment, tiled gallery, sharing, like and related posts
+- Add new custom menu
+- Add favicon and apple touch icon setting in customizer
+- Add new default color
+- Add custom unlimited color in customizer
+- Add new way to use gallery post format
+- Add new way to use link post format
+- Add dashicons support for menu
+- Add off-canvas mobile menu
+- Add option to show/hide avatar
+- Better custom header experience
+- Better writing experience
+- Tweak responsive style
+- Fix breadcrumbs double prefix issue
+- Update FitVids.js
